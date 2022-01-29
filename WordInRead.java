@@ -7,7 +7,7 @@ class WordInRead {
 		String str=kb.nextLine();
 		System.out.print(T.solution(str));
 	}
-
+	
 	public String solution(String str){
 		String answer="";
 		int m=Integer.MIN_VALUE;
