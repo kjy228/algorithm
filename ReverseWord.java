@@ -19,6 +19,7 @@ class ReverseWord {
 			String tmp = new StringBuilder(x).reverse().toString();
 			answer.add(tmp);
 		}
+		
 		//2번 방식
 //		for(String x : str){
 //			char[] s=x.toCharArray();
